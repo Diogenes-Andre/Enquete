@@ -1,0 +1,24 @@
+header {
+    background-color: black;
+    text-align: center;
+    color: rgb(91, 165, 175);
+}
+
+body {
+    background-color: white;
+}
+
+button {
+    
+  background-color: #515152bb; /* Green */
+  border-radius: 30%;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+}
