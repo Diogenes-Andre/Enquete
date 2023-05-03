@@ -1,24 +1,35 @@
 header {
     background-color: black;
     text-align: center;
-    color: rgb(91, 165, 175);
+    font-size: 3em;
+    color: blanchedalmond;
+    border-radius: 10px;
+}
+
+h2 {
+  background-color: black;
+  text-align: center;
+  color: bisque;
+  border-radius: 10px;
+  padding: 10px 10px;
+  
 }
 
 body {
-    background-color: white;
+    background-color: goldenrod;
 }
 
 button {
     
   background-color: #515152bb; /* Green */
-  border-radius: 30%;
+  border-radius: 10%;
   border: none;
   color: black;
-  padding: 15px 32px;
+  padding: 10px 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 13px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
  
 }
